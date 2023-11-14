@@ -58,3 +58,8 @@ Enter the interest: 'simple interest' or 'compound interest: compound
 
 Result:
 The total amount after the interest has been paid: [calculated amount].
+
+
+## GitHub Repository
+
+Visit the [Finance Calculator GitHub Repository](https://github.com/your-username/finance_calculator) for more details.
